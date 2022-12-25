@@ -14,10 +14,10 @@ function Header() {
             src={kamilImg}
           />
         </Link>
-        <h1>Kamil's Blog</h1>
+        <h1 className="text-sm md:text-lg">Kamil's Blog</h1>
       </div>
-      <div className=" border border-black p-3 rounded-md">
-        <Link href="https://kamilhassan.com">
+      <div className=" border border-black p-1 md:p-3 rounded-md">
+        <Link className="text-xs md:text-lg" href="https://kamilhassan.com">
           Visit Kamil's Personal Website
         </Link>
       </div>
