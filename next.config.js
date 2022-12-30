@@ -5,6 +5,6 @@ module.exports = {
     appDir: true,
   },
   images: {
-    domains: ["links.papareact.com", "drive.google.com"],
+    domains: ["links.papareact.com", "drive.google.com", "cdn.sanity.io"],
   },
 };
